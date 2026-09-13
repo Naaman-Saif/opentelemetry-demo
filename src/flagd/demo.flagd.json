@@ -158,7 +158,7 @@
       }
     },
     "recommendationCacheFailure": {
-      "defaultVariant": "off",
+      "defaultVariant": "on",
       "description": "Fail recommendation service cache",
       "state": "ENABLED",
       "variants": {
